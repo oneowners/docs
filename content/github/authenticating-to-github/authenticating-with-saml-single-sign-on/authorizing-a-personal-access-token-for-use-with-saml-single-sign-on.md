@@ -1,4 +1,5 @@
----
+BSM
+E-WALLET CONTS
 title: Authorizing a personal access token for use with SAML single sign-on
 intro: 'To use a personal access token with an organization that uses SAML single sign-on (SSO), you must first authorize the token.'
 redirect_from:
